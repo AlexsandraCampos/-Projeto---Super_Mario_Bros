@@ -19,7 +19,7 @@ O *Encanador Mário* é uma página web projetada para prestação de serviços 
 
 ## Desenvolvimento
 
-Este projeto foi desenvolvido em colaboração com o professor *Rodolfo Mori* durante a formação *Full-Stack Pro* na *Dev Club*.
+Este projeto foi desenvolvido em colaboração com o professor *Rodolfo Mori* durante a formação *Full-Stack Pro* na <a href="www.devclub.com.br">*Dev Club*</a>.
 
 ## Como Usar
 
